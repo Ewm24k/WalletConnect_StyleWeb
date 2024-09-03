@@ -16,3 +16,6 @@ Cryptocurrency Wallet Interaction:
 
 Connecting to a crypto wallet is a fundamental feature in blockchain development.
 By learning this, you can build dApps that interact with Ethereum, Binance Smart Chain, or other blockchains, opening up a wide range of opportunities in decentralized finance (DeFi), NFTs, and more.
+
+Preaparation Needed :
+VsCode and Basic Program Skills
