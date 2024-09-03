@@ -1,4 +1,8 @@
 # WalletConnect_StyleWeb
+
+![My Logo](https://github.com/Ewm24k/WalletConnect_StyleWeb/blob/main/Untitled%20%E2%80%94%20Mozilla%20Firefox%203_9_2024%201_01_12%20PM.png)
+
+
 Responsive navigation bar (navbar) that includes links, a brand logo, and a button for connecting a cryptocurrency wallet.
 
 Why It’s Important:
