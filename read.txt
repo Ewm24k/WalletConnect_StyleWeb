@@ -1,0 +1,12 @@
+create new folder
+cd to project
+open terminal
+paste this : npm install @walletconnect/client @walletconnect/web3-provider web3
+wait until finish
+create backend.js
+create index.html
+patse code backend into backend.js
+paste index code into index.html code
+clear terminal
+run : node backend.js
+open index.html on live server
