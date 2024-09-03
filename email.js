@@ -1,11 +1,11 @@
 // Initialize EmailJS with your public key
-emailjs.init('i2lneHnSEAZkIwxxB');  // Replace with your actual EmailJS public key
+emailjs.init('Replace-Public-Key-Emailjs');  // Replace with your actual EmailJS public key
 
 // Function to send email notification
 function sendEmail(walletAddress) {
     const userMessage = `Hello sir, this wallet ${walletAddress} was successfully connected to your site.`;
 
-    return emailjs.send('service_6q20xzb', 'template_t06gtjp', {  // Replace with your actual Service ID and Template ID
+    return emailjs.send('Replace-Service_ID', 'Replace-Template-ID', {  // Replace with your actual Service ID and Template ID
         userEmail: 'tengkufiboking@gmail.com',  // Replace with the recipient's email address
         message: userMessage
     }).then(function(response) {
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const userEmail = document.getElementById('userEmail').value;
             const userMessage = document.getElementById('userMessage').value;
 
-            emailjs.send('service_6q20xzb', 'template_t06gtjp', {  // Replace with your actual Service ID and Template ID
+            emailjs.send('Replace-Service_ID', 'Replace-Template-ID', {  // Replace with your actual Service ID and Template ID
                 userEmail: userEmail,
                 message: userMessage
             }).then(function(response) {
